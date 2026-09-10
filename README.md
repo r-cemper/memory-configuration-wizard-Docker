@@ -19,12 +19,12 @@ USER>
 ```
 or using **iterm**
 ```
-http://localhost:42773/itermin/
+http://localhost:42773/iterm/
 ```
 To access IRIS System Management Portal
 ```
 http://localhost:42773/csp/sys/UtilHome.csp
 ```
 ### How to use it  
-All user documentation is found there in the [original repo](https://github.com/bdeboe/isc-mem-config/blob/main/README.md)     
+All user documentation is found in [original repo](https://github.com/bdeboe/isc-mem-config/blob/main/README.md)     
 - [Launch Configurator](http://localhost:42773/csp/mem-config/configurator.html)
