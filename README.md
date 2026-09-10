@@ -28,3 +28,10 @@ http://localhost:42773/csp/sys/UtilHome.csp
 ### How to use it  
 All user documentation is found in [original repo](https://github.com/bdeboe/isc-mem-config/blob/main/README.md)     
 - [Launch Configurator](http://localhost:42773/csp/mem-config/configurator.html)
+
+### IRIS restart in Docker
+enter docker console
+```
+$ docker-compose exec iris bash
+irisowner@a87ea46f602b:/opt/irisapp$ iris stop iris quietly restart
+```
