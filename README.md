@@ -1,6 +1,6 @@
 # IRIS-memory-configuration-wizard-Docker
-The OEX package just uses a modest IRIS instance in Docker
-As the related Pull Request was ignored for years, it is  published here
+The OEX package just uses a modest IRIS instance in Docker   
+As the related Pull Request was ignored for years, it is  published here 
 ### Prerequisites
 Make sure you have [git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) and [Docker desktop](https://www.docker.com/products/docker-desktop) installed.
 ### Installation
